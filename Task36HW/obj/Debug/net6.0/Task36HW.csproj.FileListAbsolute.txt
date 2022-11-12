@@ -1,0 +1,15 @@
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.csproj.AssemblyReference.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.AssemblyInfoInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.AssemblyInfo.cs
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.csproj.CoreCompileInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\bin\Debug\net6.0\Task36HW.exe
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\bin\Debug\net6.0\Task36HW.deps.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\bin\Debug\net6.0\Task36HW.runtimeconfig.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\bin\Debug\net6.0\Task36HW.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\bin\Debug\net6.0\Task36HW.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\refint\Task36HW.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\Task36HW.genruntimeconfig.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\Task36HW\obj\Debug\net6.0\ref\Task36HW.dll

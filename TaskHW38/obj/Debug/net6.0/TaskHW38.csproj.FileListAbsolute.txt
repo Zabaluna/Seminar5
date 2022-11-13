@@ -1,0 +1,15 @@
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.csproj.AssemblyReference.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.AssemblyInfoInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.AssemblyInfo.cs
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.csproj.CoreCompileInputs.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\bin\Debug\net6.0\TaskHW38.exe
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\bin\Debug\net6.0\TaskHW38.deps.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\bin\Debug\net6.0\TaskHW38.runtimeconfig.json
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\bin\Debug\net6.0\TaskHW38.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\bin\Debug\net6.0\TaskHW38.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\refint\TaskHW38.dll
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.pdb
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\TaskHW38.genruntimeconfig.cache
+C:\Users\zabal\OneDrive\Рабочий стол\C#\Seminar5\TaskHW38\obj\Debug\net6.0\ref\TaskHW38.dll
